@@ -8,6 +8,9 @@ Parts
 4.	Router (TP-LINK  TL-WR740N)
    
 
+![alt text](https://raw.githubusercontent.com/markwinap/Inflatable-Cushion/master/Images/OKVAE4334_2.png "PARTS")
+![alt text](https://raw.githubusercontent.com/markwinap/Inflatable-Cushion/master/Images/router2.jpg "ROUTER")
+
 ## Basic Setup
 
 ### Connect the router
@@ -31,6 +34,8 @@ Hit: Save the URLs to your smart phone Home Screen on iOS and Android
 ### Performance Issues
 Due to performance issues with the air pump not having enough suction power, the deflate function is not working as expected, unplug the connector from the pump right side (long tube) and leave it unplugged. To deflate the cushion, unplug the tube from the cushion.
  
+![alt text](https://raw.githubusercontent.com/markwinap/Inflatable-Cushion/master/Images/OKVAE4334_4.png "Dont Connect")
+
 ## Component Details
 
 ### Cushion Stack
@@ -48,14 +53,16 @@ Using Relays, the solenoid valves are turned on of by the microcontroller
 
 ### Inflate
 Then the Controller unit is se to Inflate the 
+
+![alt text](https://raw.githubusercontent.com/markwinap/Inflatable-Cushion/master/Images/inflate.jpg "Inflate Air Flow")
  
-Deflate
+### Deflate
 The opposite happens when the Controller Unit is set to deflate redirecting the air flow without having to reverse the motor. 
 
 
 ## DIAGRAM
  
-
+![alt text](https://raw.githubusercontent.com/markwinap/Inflatable-Cushion/master/Images/deflate.jpg "Defalte Air Flow")
 
 ## FUSION 360 Models
 https://a360.co/2Kxu4mj
