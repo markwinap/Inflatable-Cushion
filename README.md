@@ -58,11 +58,11 @@ Then the Controller unit is se to Inflate the
  
 ### Deflate
 The opposite happens when the Controller Unit is set to deflate redirecting the air flow without having to reverse the motor. 
-
+![alt text](https://raw.githubusercontent.com/markwinap/Inflatable-Cushion/master/Images/deflate.jpg "Defalte Air Flow")
 
 ## DIAGRAM
  
-![alt text](https://raw.githubusercontent.com/markwinap/Inflatable-Cushion/master/Images/deflate.jpg "Defalte Air Flow")
+![alt text](https://raw.githubusercontent.com/markwinap/Inflatable-Cushion/master/Images/Diagram.png "Diagram")
 
 ## FUSION 360 Models
 https://a360.co/2Kxu4mj
